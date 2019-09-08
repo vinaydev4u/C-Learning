@@ -1,0 +1,11 @@
+c:\Users\invidev2\vinay\gradebook\src\GradeBook\bin\Debug\netcoreapp3.0\GradeBook.exe
+c:\Users\invidev2\vinay\gradebook\src\GradeBook\bin\Debug\netcoreapp3.0\GradeBook.deps.json
+c:\Users\invidev2\vinay\gradebook\src\GradeBook\bin\Debug\netcoreapp3.0\GradeBook.runtimeconfig.json
+c:\Users\invidev2\vinay\gradebook\src\GradeBook\bin\Debug\netcoreapp3.0\GradeBook.runtimeconfig.dev.json
+c:\Users\invidev2\vinay\gradebook\src\GradeBook\bin\Debug\netcoreapp3.0\GradeBook.dll
+c:\Users\invidev2\vinay\gradebook\src\GradeBook\bin\Debug\netcoreapp3.0\GradeBook.pdb
+c:\Users\invidev2\vinay\gradebook\src\GradeBook\obj\Debug\netcoreapp3.0\GradeBook.csprojAssemblyReference.cache
+c:\Users\invidev2\vinay\gradebook\src\GradeBook\obj\Debug\netcoreapp3.0\GradeBook.AssemblyInfoInputs.cache
+c:\Users\invidev2\vinay\gradebook\src\GradeBook\obj\Debug\netcoreapp3.0\GradeBook.AssemblyInfo.cs
+c:\Users\invidev2\vinay\gradebook\src\GradeBook\obj\Debug\netcoreapp3.0\GradeBook.dll
+c:\Users\invidev2\vinay\gradebook\src\GradeBook\obj\Debug\netcoreapp3.0\GradeBook.pdb

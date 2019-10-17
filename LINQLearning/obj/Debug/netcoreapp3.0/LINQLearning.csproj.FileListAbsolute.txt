@@ -1,0 +1,11 @@
+C:\Vinay\Learning\SelfLearning\LINQLearning\bin\Debug\netcoreapp3.0\LINQLearning.exe
+C:\Vinay\Learning\SelfLearning\LINQLearning\bin\Debug\netcoreapp3.0\LINQLearning.deps.json
+C:\Vinay\Learning\SelfLearning\LINQLearning\bin\Debug\netcoreapp3.0\LINQLearning.runtimeconfig.json
+C:\Vinay\Learning\SelfLearning\LINQLearning\bin\Debug\netcoreapp3.0\LINQLearning.runtimeconfig.dev.json
+C:\Vinay\Learning\SelfLearning\LINQLearning\bin\Debug\netcoreapp3.0\LINQLearning.dll
+C:\Vinay\Learning\SelfLearning\LINQLearning\bin\Debug\netcoreapp3.0\LINQLearning.pdb
+C:\Vinay\Learning\SelfLearning\LINQLearning\obj\Debug\netcoreapp3.0\LINQLearning.csprojAssemblyReference.cache
+C:\Vinay\Learning\SelfLearning\LINQLearning\obj\Debug\netcoreapp3.0\LINQLearning.AssemblyInfoInputs.cache
+C:\Vinay\Learning\SelfLearning\LINQLearning\obj\Debug\netcoreapp3.0\LINQLearning.AssemblyInfo.cs
+C:\Vinay\Learning\SelfLearning\LINQLearning\obj\Debug\netcoreapp3.0\LINQLearning.dll
+C:\Vinay\Learning\SelfLearning\LINQLearning\obj\Debug\netcoreapp3.0\LINQLearning.pdb

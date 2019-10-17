@@ -1,0 +1,13 @@
+C:\Vinay\Learning\SelfLearning\Docker Container\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Vinay\Learning\SelfLearning\Docker Container\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.AssemblyInfoInputs.cache
+C:\Vinay\Learning\SelfLearning\Docker Container\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.AssemblyInfo.cs
+C:\Vinay\Learning\SelfLearning\Docker Container\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.deps.json
+C:\Vinay\Learning\SelfLearning\Docker Container\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.runtimeconfig.json
+C:\Vinay\Learning\SelfLearning\Docker Container\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.runtimeconfig.dev.json
+C:\Vinay\Learning\SelfLearning\Docker Container\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.dll
+C:\Vinay\Learning\SelfLearning\Docker Container\HelloWorld\bin\Debug\netcoreapp2.2\HelloWorld.pdb
+C:\Vinay\Learning\SelfLearning\Docker Container\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.RazorAssemblyInfo.cache
+C:\Vinay\Learning\SelfLearning\Docker Container\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.RazorAssemblyInfo.cs
+C:\Vinay\Learning\SelfLearning\Docker Container\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.RazorTargetAssemblyInfo.cache
+C:\Vinay\Learning\SelfLearning\Docker Container\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.dll
+C:\Vinay\Learning\SelfLearning\Docker Container\HelloWorld\obj\Debug\netcoreapp2.2\HelloWorld.pdb

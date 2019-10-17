@@ -1,2 +1,2 @@
-# C-Learning
+# C#-Learning
 Sample codes of c#
